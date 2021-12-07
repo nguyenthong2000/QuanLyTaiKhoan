@@ -3,4 +3,4 @@ Chương trình là nhiệm vụ ngoại khoá môn Chuyên đề ngành 07/12/2
 Hướng đề tài là Cơ sở dữ liệu.
 Chương trình sử dụng:
 - MongoDB để lưu trữ dữ liệu
-- PySide 6 Làm giao diện đồ hoạ người dùng
+- PySide6 Làm giao diện đồ hoạ người dùng
